@@ -1,5 +1,5 @@
-baseurl: http://www.example.com
-title: Yusuke Ishimi
+baseurl: jesusjimenezlopez.netlify.app
+title: Jesus Jimenez
 theme: hugo-coder-portfolio
 DefaultContentLanguage: en
 paginate: 20
@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax: yes
 pygmentsUseClasses: yes
 disqusShortname: yourdiscussshortname
 params:
-  author: Yusuke Ishimi
+  author: Jesus Jimenez
   avatarurl: images/avatar.jpg
   custom_css: []
   description: Yusuke Ishimi's personal website
